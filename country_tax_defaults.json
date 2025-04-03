@@ -1,0 +1,710 @@
+{
+    "India": {
+        "tax_name": "GST",
+        "tax_rate": 18
+    },
+    "United Kingdom": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Germany": {
+        "tax_name": "VAT",
+        "tax_rate": 19
+    },
+    "Australia": {
+        "tax_name": "GST",
+        "tax_rate": 10
+    },
+    "Canada": {
+        "tax_name": "GST",
+        "tax_rate": 5
+    },
+    "France": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "United Arab Emirates": {
+        "tax_name": "VAT",
+        "tax_rate": 5
+    },
+    "Singapore": {
+        "tax_name": "GST",
+        "tax_rate": 9
+    },
+    "South Africa": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Japan": {
+        "tax_name": "Consumption Tax",
+        "tax_rate": 10
+    },
+    "New Zealand": {
+        "tax_name": "GST",
+        "tax_rate": 15
+    },
+    "United States": {
+        "tax_name": "Sales Tax",
+        "tax_rate": null
+    },
+    "Saudi Arabia": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Brazil": {
+        "tax_name": "ICMS",
+        "tax_rate": 17
+    },
+    "China": {
+        "tax_name": "VAT",
+        "tax_rate": 13
+    },
+    "Mexico": {
+        "tax_name": "IVA",
+        "tax_rate": 16
+    },
+    "Indonesia": {
+        "tax_name": "VAT",
+        "tax_rate": 11
+    },
+    "Italy": {
+        "tax_name": "VAT",
+        "tax_rate": 22
+    },
+    "Spain": {
+        "tax_name": "VAT",
+        "tax_rate": 21
+    },
+    "Russia": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Turkey": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Netherlands": {
+        "tax_name": "VAT",
+        "tax_rate": 21
+    },
+    "Sweden": {
+        "tax_name": "VAT",
+        "tax_rate": 25
+    },
+    "Switzerland": {
+        "tax_name": "VAT",
+        "tax_rate": 7.7
+    },
+    "Argentina": {
+        "tax_name": "IVA",
+        "tax_rate": 21
+    },
+    "Thailand": {
+        "tax_name": "VAT",
+        "tax_rate": 7
+    },
+    "Philippines": {
+        "tax_name": "VAT",
+        "tax_rate": 12
+    },
+    "Malaysia": {
+        "tax_name": "SST",
+        "tax_rate": 6
+    },
+    "Vietnam": {
+        "tax_name": "VAT",
+        "tax_rate": 10
+    },
+    "South Korea": {
+        "tax_name": "VAT",
+        "tax_rate": 10
+    },
+    "Poland": {
+        "tax_name": "VAT",
+        "tax_rate": 23
+    },
+    "Austria": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Belgium": {
+        "tax_name": "VAT",
+        "tax_rate": 21
+    },
+    "Chile": {
+        "tax_name": "VAT",
+        "tax_rate": 19
+    },
+    "Colombia": {
+        "tax_name": "IVA",
+        "tax_rate": 19
+    },
+    "Czech Republic": {
+        "tax_name": "VAT",
+        "tax_rate": 21
+    },
+    "Denmark": {
+        "tax_name": "VAT",
+        "tax_rate": 25
+    },
+    "Finland": {
+        "tax_name": "VAT",
+        "tax_rate": 24
+    },
+    "Greece": {
+        "tax_name": "VAT",
+        "tax_rate": 24
+    },
+    "Hungary": {
+        "tax_name": "VAT",
+        "tax_rate": 27
+    },
+    "Ireland": {
+        "tax_name": "VAT",
+        "tax_rate": 23
+    },
+    "Israel": {
+        "tax_name": "VAT",
+        "tax_rate": 17
+    },
+    "Kazakhstan": {
+        "tax_name": "VAT",
+        "tax_rate": 12
+    },
+    "Kenya": {
+        "tax_name": "VAT",
+        "tax_rate": 16
+    },
+    "Norway": {
+        "tax_name": "VAT",
+        "tax_rate": 25
+    },
+    "Pakistan": {
+        "tax_name": "Sales Tax",
+        "tax_rate": 17
+    },
+    "Portugal": {
+        "tax_name": "VAT",
+        "tax_rate": 23
+    },
+    "Romania": {
+        "tax_name": "VAT",
+        "tax_rate": 19
+    },
+    "Slovakia": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Slovenia": {
+        "tax_name": "VAT",
+        "tax_rate": 22
+    },
+    "Ukraine": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Bangladesh": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Iceland": {
+        "tax_name": "VAT",
+        "tax_rate": 24
+    },
+    "Morocco": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Peru": {
+        "tax_name": "IGV",
+        "tax_rate": 18
+    },
+    "Tunisia": {
+        "tax_name": "VAT",
+        "tax_rate": 19
+    },
+    "Uganda": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Uruguay": {
+        "tax_name": "IVA",
+        "tax_rate": 22
+    },
+    "Zambia": {
+        "tax_name": "VAT",
+        "tax_rate": 16
+    },
+    "Zimbabwe": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Algeria": {
+        "tax_name": "VAT",
+        "tax_rate": 19
+    },
+    "Armenia": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Azerbaijan": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Bahrain": {
+        "tax_name": "VAT",
+        "tax_rate": 10
+    },
+    "Belarus": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Bolivia": {
+        "tax_name": "VAT",
+        "tax_rate": 13
+    },
+    "Bosnia and Herzegovina": {
+        "tax_name": "VAT",
+        "tax_rate": 17
+    },
+    "Botswana": {
+        "tax_name": "VAT",
+        "tax_rate": 14
+    },
+    "Bulgaria": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Cameroon": {
+        "tax_name": "VAT",
+        "tax_rate": 19.25
+    },
+    "Croatia": {
+        "tax_name": "VAT",
+        "tax_rate": 25
+    },
+    "Cyprus": {
+        "tax_name": "VAT",
+        "tax_rate": 19
+    },
+    "Dominican Republic": {
+        "tax_name": "ITBIS",
+        "tax_rate": 18
+    },
+    "Ecuador": {
+        "tax_name": "VAT",
+        "tax_rate": 12
+    },
+    "Egypt": {
+        "tax_name": "VAT",
+        "tax_rate": 14
+    },
+    "Estonia": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Ghana": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Guatemala": {
+        "tax_name": "IVA",
+        "tax_rate": 12
+    },
+    "Honduras": {
+        "tax_name": "ISV",
+        "tax_rate": 15
+    },
+    "Iran": {
+        "tax_name": "VAT",
+        "tax_rate": 9
+    },
+    "Jamaica": {
+        "tax_name": "GCT",
+        "tax_rate": 15
+    },
+    "Jordan": {
+        "tax_name": "GST",
+        "tax_rate": 16
+    },
+    "Kuwait": {
+        "tax_name": "VAT",
+        "tax_rate": 5
+    },
+    "Latvia": {
+        "tax_name": "VAT",
+        "tax_rate": 21
+    },
+    "Lithuania": {
+        "tax_name": "VAT",
+        "tax_rate": 21
+    },
+    "Luxembourg": {
+        "tax_name": "VAT",
+        "tax_rate": 16
+    },
+    "Malta": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Nepal": {
+        "tax_name": "VAT",
+        "tax_rate": 13
+    },
+    "Nigeria": {
+        "tax_name": "VAT",
+        "tax_rate": 7.5
+    },
+    "Sri Lanka": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Afghanistan": {
+        "tax_name": "Business Receipt Tax",
+        "tax_rate": 4
+    },
+    "Albania": {
+        "tax_name": "TVSH",
+        "tax_rate": 20
+    },
+    "Andorra": {
+        "tax_name": "IGI",
+        "tax_rate": 4.5
+    },
+    "Angola": {
+        "tax_name": "VAT",
+        "tax_rate": 14
+    },
+    "Bahamas": {
+        "tax_name": "VAT",
+        "tax_rate": 12
+    },
+    "Barbados": {
+        "tax_name": "VAT",
+        "tax_rate": 17.5
+    },
+    "Belize": {
+        "tax_name": "GST",
+        "tax_rate": 12.5
+    },
+    "Burkina Faso": {
+        "tax_name": "TVA",
+        "tax_rate": 18
+    },
+    "Burundi": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Cambodia": {
+        "tax_name": "VAT",
+        "tax_rate": 10
+    },
+    "C\u00f4te d'Ivoire (Ivory Coast)": {
+        "tax_name": "TVA",
+        "tax_rate": 18
+    },
+    "El Salvador": {
+        "tax_name": "IVA",
+        "tax_rate": 13
+    },
+    "Fiji": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Gabon": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Georgia": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Iraq": {
+        "tax_name": "Sales Tax",
+        "tax_rate": 15
+    },
+    "Kyrgyzstan": {
+        "tax_name": "VAT",
+        "tax_rate": 12
+    },
+    "Laos": {
+        "tax_name": "VAT",
+        "tax_rate": 10
+    },
+    "Lebanon": {
+        "tax_name": "VAT",
+        "tax_rate": 11
+    },
+    "Madagascar": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Malawi": {
+        "tax_name": "VAT",
+        "tax_rate": 16.5
+    },
+    "Moldova": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Mongolia": {
+        "tax_name": "VAT",
+        "tax_rate": 10
+    },
+    "Namibia": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Nicaragua": {
+        "tax_name": "IVA",
+        "tax_rate": 15
+    },
+    "Panama": {
+        "tax_name": "ITBMS",
+        "tax_rate": 7
+    },
+    "Paraguay": {
+        "tax_name": "VAT",
+        "tax_rate": 10
+    },
+    "Senegal": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Serbia": {
+        "tax_name": "PDV",
+        "tax_rate": 20
+    },
+    "Tanzania": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Papua New Guinea": {
+        "tax_name": "GST",
+        "tax_rate": 10
+    },
+    "Qatar": {
+        "tax_name": "VAT",
+        "tax_rate": 5
+    },
+    "Rwanda": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Saint Kitts and Nevis": {
+        "tax_name": "VAT",
+        "tax_rate": 17
+    },
+    "Saint Lucia": {
+        "tax_name": "VAT",
+        "tax_rate": 12.5
+    },
+    "Saint Vincent and the Grenadines": {
+        "tax_name": "VAT",
+        "tax_rate": 16
+    },
+    "Seychelles": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Sierra Leone": {
+        "tax_name": "GST",
+        "tax_rate": 15
+    },
+    "Sudan": {
+        "tax_name": "VAT",
+        "tax_rate": 17
+    },
+    "Suriname": {
+        "tax_name": "VAT",
+        "tax_rate": 12
+    },
+    "Swaziland (Eswatini)": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Syrian Arab Republic": {
+        "tax_name": "VAT",
+        "tax_rate": 14
+    },
+    "Tajikistan": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Togo": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Trinidad and Tobago": {
+        "tax_name": "VAT",
+        "tax_rate": 12.5
+    },
+    "Turkmenistan": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Uzbekistan": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Vanuatu": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Venezuela": {
+        "tax_name": "VAT",
+        "tax_rate": 16
+    },
+    "Ethiopia": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Mozambique": {
+        "tax_name": "VAT",
+        "tax_rate": 17
+    },
+    "Guyana": {
+        "tax_name": "VAT",
+        "tax_rate": 14
+    },
+    "Gambia": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Marshall Islands": {
+        "tax_name": "GRT",
+        "tax_rate": 5
+    },
+    "Solomon Islands": {
+        "tax_name": "GST",
+        "tax_rate": 10
+    },
+    "Tonga": {
+        "tax_name": "CT",
+        "tax_rate": 15
+    },
+    "Kiribati": {
+        "tax_name": "VAT",
+        "tax_rate": 12.5
+    },
+    "Lesotho": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Bermuda": {
+        "tax_name": "Customs Duties",
+        "tax_rate": 0
+    },
+    "Brunei": {
+        "tax_name": "No VAT",
+        "tax_rate": 0
+    },
+    "Cape Verde": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Central African Republic": {
+        "tax_name": "VAT",
+        "tax_rate": 19
+    },
+    "Chad": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Comoros": {
+        "tax_name": "VAT",
+        "tax_rate": 10
+    },
+    "Congo": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Cook Islands": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Cuba": {
+        "tax_name": "Sales Tax",
+        "tax_rate": 10
+    },
+    "Djibouti": {
+        "tax_name": "VAT",
+        "tax_rate": 10
+    },
+    "Equatorial Guinea": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Eritrea": {
+        "tax_name": "GST",
+        "tax_rate": 10
+    },
+    "Faroe Islands": {
+        "tax_name": "VAT",
+        "tax_rate": 25
+    },
+    "Greenland": {
+        "tax_name": "No VAT",
+        "tax_rate": 0
+    },
+    "Guinea": {
+        "tax_name": "VAT",
+        "tax_rate": 18
+    },
+    "Guinea-Bissau": {
+        "tax_name": "VAT",
+        "tax_rate": 15
+    },
+    "Haiti": {
+        "tax_name": "TCA",
+        "tax_rate": 10
+    },
+    "Isle of Man": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Jersey": {
+        "tax_name": "GST",
+        "tax_rate": 5
+    },
+    "Liechtenstein": {
+        "tax_name": "VAT",
+        "tax_rate": 7.7
+    },
+    "Macau S.A.R.": {
+        "tax_name": "Business Tax",
+        "tax_rate": 0
+    },
+    "Maldives": {
+        "tax_name": "GST",
+        "tax_rate": 6
+    },
+    "Monaco": {
+        "tax_name": "VAT",
+        "tax_rate": 20
+    },
+    "Montserrat": {
+        "tax_name": "Consumption Tax",
+        "tax_rate": 15
+    },
+    "Nauru": {
+        "tax_name": "No VAT",
+        "tax_rate": 0
+    },
+    "Niue": {
+        "tax_name": "No VAT",
+        "tax_rate": 0
+    },
+    "North Korea": {
+        "tax_name": "Sales Tax",
+        "tax_rate": 10
+    },
+    "Palau": {
+        "tax_name": "Gross Revenue Tax",
+        "tax_rate": 4
+    },
+    "San Marino": {
+        "tax_name": "VAT",
+        "tax_rate": 17
+    }
+}
